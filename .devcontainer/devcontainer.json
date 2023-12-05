@@ -3,7 +3,7 @@
 	"build": {
 		"dockerfile": "Dockerfile.devel",
 		"args": {
-			"VARIANT": "ubuntu-20.04"
+			"VARIANT": "ubuntu-18.04"
 		}
 	},
 	"runArgs": [
